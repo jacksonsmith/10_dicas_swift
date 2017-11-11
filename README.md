@@ -269,5 +269,8 @@ Agora é sua vez. Eu poderia ter concluído os restantes 10% do artigo. Mas, eu 
 
 ### Ultimas Observações
 Bom pessoal é tudo um aprendizado novo pra mim, iniciei meus aprendizados em swift há apenas 5 meses, espero que eu possa estar trazendo algo relevante para vocês e que possamos estar melhorando a cada dia nessa jornada Pokemon.
-Não se esqueçam de conferir o meu blog clicando [aqui](https://vikingscode.com "aqui"), lá tem outras dicas e coisas que vou abordar com o tempo.
-Não se esqueçam de conferir o blog do Bob clicando [aqui](http://bobthedeveloper.io "aqui"), lá tem o melhor curso de swift que já fiz até hoje.
+
+Não se esqueçam de conferir o meu blog clicando [aqui](https://vikingscode.com "aqui"),
+  lá tem outras dicas e coisas que vou abordar com o tempo.
+Não se esqueçam de conferir o blog do Bob clicando [aqui](http://bobthedeveloper.io "aqui"),
+  lá tem o melhor curso de swift que já fiz até hoje.
